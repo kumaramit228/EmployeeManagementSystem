@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\bin\Debug\Looping.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\bin\Debug\Looping.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\bin\Debug\Looping.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\obj\Debug\Looping.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\obj\Debug\Looping.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\Looping\obj\Debug\Looping.pdb

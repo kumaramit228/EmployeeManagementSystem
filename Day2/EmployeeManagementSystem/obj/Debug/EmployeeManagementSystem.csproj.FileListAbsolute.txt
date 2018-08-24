@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb

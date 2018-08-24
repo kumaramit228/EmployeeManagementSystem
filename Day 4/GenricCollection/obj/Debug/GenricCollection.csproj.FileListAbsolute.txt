@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\bin\Debug\GenricCollection.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\bin\Debug\GenricCollection.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\bin\Debug\GenricCollection.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\obj\Debug\GenricCollection.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\obj\Debug\GenricCollection.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\GenricCollection\obj\Debug\GenricCollection.csprojResolveAssemblyReference.cache

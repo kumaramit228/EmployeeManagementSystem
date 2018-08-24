@@ -1,0 +1,10 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\bin\Debug\FirstVbProject.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\bin\Debug\FirstVbProject.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\bin\Debug\FirstVbProject.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\bin\Debug\FirstVbProject.xml
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.vbprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.Resources.resources
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.vbproj.GenerateResource.Cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.xml
+c:\users\grad57\documents\visual studio 2015\Projects\Day1\FirstVbProject\obj\Debug\FirstVbProject.pdb

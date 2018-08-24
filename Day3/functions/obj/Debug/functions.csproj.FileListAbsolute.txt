@@ -1,0 +1,6 @@
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\bin\Debug\functions.exe.config
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\bin\Debug\functions.exe
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\bin\Debug\functions.pdb
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\obj\Debug\functions.exe
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\obj\Debug\functions.pdb
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\functions\obj\Debug\functions.csprojResolveAssemblyReference.cache

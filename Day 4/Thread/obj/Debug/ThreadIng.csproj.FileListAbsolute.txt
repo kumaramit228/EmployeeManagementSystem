@@ -1,0 +1,5 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\Thread\bin\Debug\Thread.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\Thread\bin\Debug\Thread.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\Thread\bin\Debug\Thread.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\Thread\obj\Debug\Thread.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\Thread\obj\Debug\Thread.pdb

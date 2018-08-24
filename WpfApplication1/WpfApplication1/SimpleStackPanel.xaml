@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication1.SimpleStackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="SimpleStackPanel" Height="300" Width="300">
+    <ScrollViewer>
+    <StackPanel Background="LightSteelBlue" Orientation="Vertical">
+        <Label Name="lblInstructions" FontSize="15" Content="Enter name"/>
+        <Label Name="lblMake" Content="Make"></Label>
+        <TextBox Name="TxtMake"></TextBox>
+        <Label Name="lblColor" Content="Color"></Label>
+        <TextBox Name="txtColor" />
+        <Label Name="lblPetName" Content="Pet Name" />
+        <TextBox Name="txtPetName" />
+        <Button Name="btnOk" Width="80" Content="OK" />
+    </StackPanel>
+    </ScrollViewer>
+</Window>

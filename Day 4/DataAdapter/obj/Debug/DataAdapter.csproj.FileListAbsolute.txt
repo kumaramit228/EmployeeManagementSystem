@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\bin\Debug\DataAdapter.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\bin\Debug\DataAdapter.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\bin\Debug\DataAdapter.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\obj\Debug\DataAdapter.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\obj\Debug\DataAdapter.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\DataAdapter\obj\Debug\DataAdapter.csprojResolveAssemblyReference.cache

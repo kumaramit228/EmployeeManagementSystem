@@ -1,0 +1,5 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\LinqExpression\bin\Debug\LinqExpression.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\LinqExpression\bin\Debug\LinqExpression.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\LinqExpression\bin\Debug\LinqExpression.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\LinqExpression\obj\Debug\LinqExpression.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\LinqExpression\obj\Debug\LinqExpression.pdb

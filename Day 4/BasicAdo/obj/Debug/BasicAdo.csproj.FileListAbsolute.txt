@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\bin\Debug\BasicAdo.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\bin\Debug\BasicAdo.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\bin\Debug\BasicAdo.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\obj\Debug\BasicAdo.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\obj\Debug\BasicAdo.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\BasicAdo\obj\Debug\BasicAdo.pdb

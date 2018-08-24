@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day 4\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

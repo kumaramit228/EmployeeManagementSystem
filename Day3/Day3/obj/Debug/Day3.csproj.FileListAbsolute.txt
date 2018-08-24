@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\bin\Debug\Day3.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\bin\Debug\Day3.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\bin\Debug\Day3.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\obj\Debug\Day3.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\obj\Debug\Day3.exe
+c:\users\grad57\documents\visual studio 2015\Projects\Day3\Day3\obj\Debug\Day3.pdb

@@ -1,0 +1,6 @@
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\bin\Debug\Class.exe.config
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\obj\Debug\Class.exe
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\obj\Debug\Class.pdb
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\bin\Debug\Class.exe
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\bin\Debug\Class.pdb
+c:\Users\Grad57\documents\visual studio 2015\Projects\Day3\Class\obj\Debug\Employee_Project.csprojResolveAssemblyReference.cache
